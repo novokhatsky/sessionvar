@@ -1,0 +1,10 @@
+{
+    "name":"novokhatsky/sessionvar",
+    "description":"access session var",
+    "require":{
+        "php":"^7.0"
+    },
+    "autoload":{
+        "psr-4":{"novokhatsky\\sessionvar\\":"/src"}
+    }
+}
